@@ -1,0 +1,55 @@
+.contact_text{
+    font-size: 200%;
+    letter-spacing: 8px;
+    margin-bottom: 3%;
+  }
+  
+  .contact{
+    min-height: 50vh;
+    padding-bottom: 10vh;
+  
+  }
+  .email{
+    font-style: none;
+    color:rgb(41, 109, 237);
+  }
+
+  .form-control{
+    background-color: whitesmoke;
+    margin: 5px;
+    height: 5vh;
+    min-width: 300px;
+    border-radius: 5px;
+    border-color: transparent;
+    min-height: 30px;
+
+  }
+  
+  .message-form{
+    background-color: whitesmoke;
+    margin: 5px;
+    min-height: 25vh;
+    min-width: 300px;
+    border-radius: 5px;
+    border-color: transparent;
+    margin-top: 2%;
+  }
+  
+  .btn-info{
+    cursor: pointer;
+    background-color: white;
+    min-height: 50px;
+    min-width: 100px;
+    border-color: transparent;
+    border-radius: 5px;
+    color: rgb(29, 29, 29);
+    font-weight: bolder;
+    padding-right: 30px;
+    padding-left: 30px;
+  }
+
+  /*hovering*/
+
+  .btn-info:hover{
+    background-color: rgb(185, 185, 185);
+  }
